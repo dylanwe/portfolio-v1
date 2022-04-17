@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #838387;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.cke_editable {
+    margin: auto;
+    padding: 0 15px;
+    max-width: 800px;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #000000;
+    font-weight: 500;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+h2 {
+    font-size: 1.8rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
